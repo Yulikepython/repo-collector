@@ -1,0 +1,5 @@
+# .collectignore の例
+dist/
+*.pyc
+.DS_Store
+docs/*

@@ -1,8 +1,6 @@
-
-__pycache__/
-
-.idea/
-
-.collectignore
+venv/
 *.txt
 !requirements.txt
+__pycache__/
+.idea
+.collectignore
