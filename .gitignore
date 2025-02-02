@@ -1,0 +1,6 @@
+venv/
+*.txt
+!requirements.txt
+__pycache__/
+.idea
+.collectignore
